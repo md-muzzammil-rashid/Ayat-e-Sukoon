@@ -57,10 +57,10 @@ const Page = () => {
 
                 {
                     [0,1,2,3,4].map(e=>
-                        <div className='flex justify-evenly'>
+                        <div key={e} className='flex justify-evenly'>
 {
                         verses.slice(e*3, e*3+3 ).map((verse, index) => (
-                            <div onClick={()=>{setSelectedVerse(verse), setModalOpen(!modalOpen); console.log("modal is open");
+                            <div key={verse.Text} onClick={()=>{setSelectedVerse(verse), setModalOpen(!modalOpen); console.log("modal is open");
                             }} className='justify-center items-center flex flex-col'>
                         <VerseCard  Verse={verse.Verse} Surah={verse.Surah} Text={verse.Text}/>
                         </div>
