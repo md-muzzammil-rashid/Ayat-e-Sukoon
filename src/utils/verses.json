@@ -1,0 +1,938 @@
+{
+  "Fear": [
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear..."
+    },
+    {
+      "Surah": "At-Tawbah",
+      "Verse": "9:40",
+      "Text": "If you do not help him (Prophet Muhammad), Allah has already helped him when those who disbelieved had driven him out, the second of the two, when they were in the cave. When he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down His tranquility upon him and supported him with armies you did not see and made the word of those who disbelieved the lowest. And the word of Allah – that is the highest. And Allah is Exalted in Might and Wise."
+    },
+    {
+      "Surah": "Al-Anfal",
+      "Verse": "8:30",
+      "Text": "And [remember] when those who disbelieved plotted against you to restrain you or kill you or evict you from your home. They were plotting and Allah was plotting, and Allah is the best of plotters."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:62",
+      "Text": "[Iblis] said, 'My Lord, then reprieve me until the Day they are resurrected.'"
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:8",
+      "Text": "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes – from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:96",
+      "Text": "And if only the people of those towns had believed and had been conscious of Allah, We would certainly have opened up to them blessings from the heavens and the earth; but they gave the lie [to their Prophets] and so We seized them for what they had earned."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:194",
+      "Text": "The sacred month is for the sacred month, and for the forbidden things, there is legal retribution. So whoever has attacked you, then retaliate against him in the same way as he has attacked you. And fear Allah and know that Allah is with the righteous."
+    },
+    {
+      "Surah": "Al-Anfal",
+      "Verse": "8:46",
+      "Text": "And obey Allah and His Messenger and do not dispute and [thus] lose courage and [then] your strength would depart. And be patient. Indeed, Allah is with the patient."
+    },
+    {
+      "Surah": "Al-Imran",
+      "Verse": "3:173",
+      "Text": "Those to whom the people said, 'Indeed, the people have gathered against you, so fear them.' But it only increased them in faith, and they said, 'Sufficient for us is Allah, and He is the best Disposer of affairs.'"
+    },
+    {
+      "Surah": "Al-Hujurat",
+      "Verse": "49:13",
+      "Text": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:51",
+      "Text": "And is it not sufficient for them that We have sent down to you the Book which is recited to them? Indeed, in that is a mercy and reminder for a people who believe."
+    },
+    {
+      "Surah": "Al-Kahf",
+      "Verse": "18:11",
+      "Text": "So We covered up their hearing in the cave for a number of years."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:61",
+      "Text": "[Noah] said, 'O my people, there is no error in me. I am but a clear warner to you.'"
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:80",
+      "Text": "And say, 'My Lord, cause me to enter a sound entrance and to exit a sound exit and give me from Yourself a supporting authority.'"
+    },
+    {
+      "Surah": "Al-Hadid",
+      "Verse": "57:22",
+      "Text": "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being. Indeed that, for Allah, is easy."
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:73",
+      "Text": "They have certainly disbelieved who say, 'Allah is the third of three.' And there is no deity except one God. And if they do not desist from what they are saying, there will surely touch the disbelievers among them a painful punishment."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:46",
+      "Text": "And do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them. And say, 'We have believed in that which has been revealed to us and revealed to you. Our God and your God is one; and we are Muslims [submitting] to Him.'"
+    },
+    {
+      "Surah": "Al-Hijr",
+      "Verse": "15:98",
+      "Text": "So glorify the praise of your Lord and be of those who prostrate [to Him]."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:222",
+      "Text": "And they ask you about menstruation. Say, 'It is harm, so keep away from women during menstruation. And do not approach them until they are purified. And when they have purified themselves, then come to them from where Allah has commanded you. Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.'"
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:285",
+      "Text": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His Books and His messengers, [saying], 'We make no distinction between any of His messengers.' And they say, 'We hear and we obey. [Seek] Your forgiveness, our Lord. To You is the final destination.'"
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:89",
+      "Text": "We would then have invented a lie against Allah if we returned to your religion after Allah had saved us from it. And it is not for us to return to it except if Allah should will. Our Lord encompasses all things in knowledge. We put our trust in Allah. Our Lord, decide between us and our people in truth. And You are the best of deciders."
+    }
+  ],
+  "Repentance": [
+    {
+      "Surah": "Al-Zumar",
+      "Verse": "39:53",
+      "Text": "Say, 'O My servants who have harmed yourselves by your own selves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'"
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:160",
+      "Text": "Except for those who repent, believe and do righteousness. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Tahrim",
+      "Verse": "66:8",
+      "Text": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow."
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:12",
+      "Text": "O Prophet, when believing women come to you to give you the pledge, that they will not associate anything with Allah, nor steal, nor commit unlawful sexual intercourse, nor kill their children, nor bring forth a slander they have invented between their arms and legs, nor disobey you in what is good, then accept their pledge and ask forgiveness for them of Allah. Indeed, Allah is Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear... Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:56",
+      "Text": "And cause not corruption upon the earth after its reformation. That is better for you, if you should be believers."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:25",
+      "Text": "Your Lord knows what is within yourselves. If you are righteous, then indeed He is ever Forgiving to those who repent."
+    },
+    {
+      "Surah": "Al-Anfal",
+      "Verse": "8:70",
+      "Text": "O Prophet, say to whoever is in your hand of the captives, 'If Allah knows any good in your hearts, He will give you something better than what has been taken from you, and He will forgive you. And Allah is Forgiving and Merciful.'"
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:10",
+      "Text": "And We have certainly established you upon the earth and made for you therein livelihoods. Little are you grateful."
+    },
+    {
+      "Surah": "Al-Hujurat",
+      "Verse": "49:10",
+      "Text": "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy."
+    },
+    {
+      "Surah": "Al-Tawbah",
+      "Verse": "9:104",
+      "Text": "Do they not know that Allah accepts repentance from His servants and takes the sadaqat and that Allah is the Accepting of Repentance, the Merciful?"
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:39",
+      "Text": "But whoever has repented after his crime and amended his condition – indeed, Allah will turn toward him in forgiveness. Indeed, Allah is Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:8",
+      "Text": "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes – from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:10",
+      "Text": "And of the people are some who say, 'We believe in Allah and the Last Day,' but they are not believers."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:199",
+      "Text": "Then depart from where the people depart and ask forgiveness of Allah. Indeed, Allah is Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Furqan",
+      "Verse": "25:70",
+      "Text": "Except for those who repent, believe and do righteousness. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:56",
+      "Text": "And cause not corruption upon the earth after its reformation. That is better for you, if you should be believers."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:222",
+      "Text": "And they ask you about menstruation. Say, 'It is harm, so keep away from women during menstruation. And do not approach them until they are purified. And when they have purified themselves, then come to them from where Allah has commanded you. Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.'"
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:285",
+      "Text": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His Books and His messengers, [saying], 'We make no distinction between any of His messengers.' And they say, 'We hear and we obey. [Seek] Your forgiveness, our Lord. To You is the final destination.'"
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:89",
+      "Text": "We would then have invented a lie against Allah if we returned to your religion after Allah had saved us from it. And it is not for us to return to it except if Allah should will. Our Lord encompasses all things in knowledge. We put our trust in Allah. Our Lord, decide between us and our people in truth. And You are the best of deciders."
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:8",
+      "Text": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allah is more worthy of both. So follow not [personal] inclination, lest you not be just."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:10",
+      "Text": "And of the people are some who say, 'We believe in Allah and the Last Day,' but they are not believers."
+    },
+    {
+      "Surah": "Al-Tahrim",
+      "Verse": "66:8",
+      "Text": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow."
+    }
+  ],
+  "Anger": [
+    {
+      "Surah": "Al-Furqan",
+      "Verse": "25:63",
+      "Text": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace."
+    },
+    {
+      "Surah": "Al-Imran",
+      "Verse": "3:134",
+      "Text": "Those who spend [in Allah’s cause] during ease and hardship and those who restrain anger and who pardon the people – and Allah loves the doers of good."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:263",
+      "Text": "A kind word with forgiveness is better than a charity followed by injury. And Allah is Free of need and Forbearing."
+    },
+    {
+      "Surah": "Ash-Shura",
+      "Verse": "42:37",
+      "Text": "And those who avoid the major sins and immoralities, and when they are angry, they forgive."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:199",
+      "Text": "Take what is given freely, and enjoin what is good; but turn away from the ignorant."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:53",
+      "Text": "And speak to people good [words]. And lower to them the wing of humility out of mercy and say, 'My Lord, have mercy upon them as they brought me up [when I was] small.'"
+    },
+    {
+      "Surah": "Al-Anfal",
+      "Verse": "8:61",
+      "Text": "And if they incline to peace, then incline to it and trust in Allah. Indeed, it is He who is the Hearing, the Knowing."
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:8",
+      "Text": "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes – from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly."
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:39",
+      "Text": "But whoever has repented after his crime and amended his condition – indeed, Allah will turn toward him in forgiveness. Indeed, Allah is Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear... Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:177",
+      "Text": "It is not righteousness that you turn your faces toward the East or the West, but righteousness is in one who believes in Allah, the Last Day, the Angels, the Book, and the Prophets, and gives his money, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [it includes] those who establish prayer and give zakah; those who fulfill their promise when they promise; and those who are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:56",
+      "Text": "And cause not corruption upon the earth after its reformation. That is better for you, if you should be believers."
+    },
+    {
+      "Surah": "Al-Furqan",
+      "Verse": "25:74",
+      "Text": "And those who say, 'Our Lord, grant us from among our wives and offspring the comfort of our eyes and make us an example for the righteous.'"
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:12",
+      "Text": "O Prophet, when believing women come to you to give you the pledge, that they will not associate anything with Allah, nor steal, nor commit unlawful sexual intercourse, nor kill their children, nor bring forth a slander they have invented between their arms and legs, nor disobey you in what is good, then accept their pledge and ask forgiveness for them of Allah. Indeed, Allah is Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:8",
+      "Text": "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allah is more worthy of both. So follow not [personal] inclination, lest you not be just."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Hujurat",
+      "Verse": "49:11",
+      "Text": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them. Nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by offensive nicknames. Wretched is the name of disobedience after faith. And whoever does not repent – then it is those who are the wrongdoers."
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:96",
+      "Text": "There is no blame upon the blind, nor any blame upon the lame, nor any blame upon the sick. Nor blame upon yourselves for eating from your own houses or from your fathers' houses or from your mothers' houses or from your brothers' houses or from your sisters' houses or from your paternal uncles' houses or from your paternal aunts' houses or from your maternal uncles' houses or from your maternal aunts' houses or from [the houses] whose keys you possess or from the house of a friend. There is no blame upon you all for eating together or separately. But when you enter houses, greet one another with a greeting from Allah, blessed and good. Thus Allah makes clear the verses [of Revelation] to you that you may understand."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:284",
+      "Text": "To Allah belongs whatever is in the heavens and whatever is on the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills. And Allah is over all things competent."
+    },
+    {
+      "Surah": "Al-Anfal",
+      "Verse": "8:46",
+      "Text": "And obey Allah and His Messenger and do not dispute [with one another] lest you lose courage and your strength depart. And be patient. Indeed, Allah is with the patient."
+    },
+    {
+      "Surah": "Al-Hajj",
+      "Verse": "22:60",
+      "Text": "That is [so], and whoever retaliates with the like of that which was inflicted upon him and then is oppressed, Allah will surely aid him. Indeed, Allah is Pardoning and Forgiving."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:37",
+      "Text": "And do not walk upon the earth with arrogance. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height."
+    },
+    {
+      "Surah": "Al-Qasas",
+      "Verse": "28:77",
+      "Text": "And seek by means of what Allah has given you the home of the Hereafter, and do not forget your share of the world. And do good as Allah has done good to you. And desire not corruption in the land. Indeed, Allah does not like corrupters."
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:9",
+      "Text": "Allah only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion. And whoever takes them as allies, they are the wrongdoers."
+    },
+    {
+      "Surah": "Al-Hadid",
+      "Verse": "57:23",
+      "Text": "So that you not despair over what has eluded you and not exult in pride over what He has given you. And Allah does not like every self-deluded, boastful person."
+    },
+    {
+      "Surah": "Al-‘Adiyat",
+      "Verse": "100:6",
+      "Text": "Indeed mankind, to his Lord, is ungrateful."
+    }
+  ],
+  "Grateful": [
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:152",
+      "Text": "So remember Me; I will remember you. And be grateful to Me and do not deny Me."
+    },
+    {
+      "Surah": "Ibrahim",
+      "Verse": "14:7",
+      "Text": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.'"
+    },
+    {
+      "Surah": "Luqman",
+      "Verse": "31:12",
+      "Text": "And We certainly gave Luqman wisdom [and said], 'Be grateful to Allah.' And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] – then indeed, Allah is Free of need and Praiseworthy."
+    },
+    {
+      "Surah": "Az-Zumar",
+      "Verse": "39:66",
+      "Text": "Rather, worship [only] Allah and be among the grateful."
+    },
+    {
+      "Surah": "Al-Insan",
+      "Verse": "76:3",
+      "Text": "Indeed, We guided him to the way, be he grateful or be he ungrateful."
+    },
+    {
+      "Surah": "An-Naml",
+      "Verse": "27:19",
+      "Text": "So he smiled, amused at her speech, and said, 'My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.'"
+    },
+    {
+      "Surah": "An-Nahl",
+      "Verse": "16:114",
+      "Text": "Then eat of what Allah has provided for you [which is] lawful and good. And be grateful for the favor of Allah, if it is [indeed] Him that you worship."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:172",
+      "Text": "O you who have believed, eat from the good things which We have provided for you and be grateful to Allah if it is [indeed] Him that you worship."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:144",
+      "Text": "[Allah] said, 'O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful.'"
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:6",
+      "Text": "O you who have believed, when you rise to [offer] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janabah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have been in contact with women and you find no water, then seek clean earth and wipe over your faces and your hands with it. Allah does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:261",
+      "Text": "The example of those who spend their wealth in the way of Allah is like a grain of corn that sprouts seven ears; in every ear there are a hundred grains. And Allah multiplies [His reward] for whom He wills. Allah is Munificent and Knowing."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:70",
+      "Text": "And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference."
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:12",
+      "Text": "And Allah had already taken a covenant from the Children of Israel, and We delegated from among them twelve leaders. And Allah said, 'I am with you. If you establish prayer and give zakah and believe in My messengers and support them and loan Allah a goodly loan, I will surely remove from you your misdeeds and admit you to gardens beneath which rivers flow. But whoever of you disbelieves after that has certainly strayed from the soundness of the way.'"
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:4",
+      "Text": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:10",
+      "Text": "And We have certainly established you upon the earth and made for you therein livelihoods. Little are you grateful."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:207",
+      "Text": "And of the people is he who sells himself, seeking the pleasure of Allah. And Allah is kind to the servants."
+    },
+    {
+      "Surah": "Al-Mumtahanah",
+      "Verse": "60:4",
+      "Text": "Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise."
+    },
+    {
+      "Surah": "Al-Furqan",
+      "Verse": "25:70",
+      "Text": "Except for those who repent, believe and do righteousness. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful."
+    },
+    {
+      "Surah": "Al-Ma'arij",
+      "Verse": "70:5",
+      "Text": "So be patient with gracious patience."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:79",
+      "Text": "And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praised station."
+    }
+  ],
+  "Anxious": [
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
+    },
+    {
+      "Surah": "Al-Imran",
+      "Verse": "3:139",
+      "Text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers."
+    },
+    {
+      "Surah": "Al-Fath",
+      "Verse": "48:4",
+      "Text": "It is He who sent down tranquillity into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allah belong the soldiers of the heavens and the earth, and ever is Allah Knowing and Wise."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:153",
+      "Text": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:200",
+      "Text": "And if an evil suggestion comes to you from Satan, then seek refuge in Allah. Indeed, He is Hearing and Knowing."
+    },
+    {
+      "Surah": "Taha",
+      "Verse": "20:25-26",
+      "Text": "[Moses] said, 'My Lord, expand for me my heart [with assurance] and ease for me my task.'"
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Muzzammil",
+      "Verse": "73:10",
+      "Text": "And be patient over what they say and avoid them with gracious avoidance."
+    },
+    {
+      "Surah": "At-Tawbah",
+      "Verse": "9:51",
+      "Text": "Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely."
+    },
+    {
+      "Surah": "Yusuf",
+      "Verse": "12:86",
+      "Text": "[Jacob] said, 'I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.'"
+    },
+    {
+      "Surah": "Al-Furqan",
+      "Verse": "25:20",
+      "Text": "And We did not send before you, [O Muhammad], any of the messengers except that they ate food and walked in the markets. And We have made some of you [people] as trial for others – will you have patience? And ever is your Lord, Seeing."
+    },
+    {
+      "Surah": "Ar-Rad",
+      "Verse": "13:11",
+      "Text": "For each one are successive [angels] before and behind him who protect him by the decree of Allah. Indeed, Allah will not change the condition of a people until they change what is in themselves. And when Allah intends for a people ill, there is no repelling it. And there is not for them besides Him any patron."
+    },
+    {
+      "Surah": "Ash-Sharh",
+      "Verse": "94:5-6",
+      "Text": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."
+    },
+    {
+      "Surah": "Al-Mu’minun",
+      "Verse": "23:97-98",
+      "Text": "And say, 'My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me.'"
+    },
+    {
+      "Surah": "Al-Hijr",
+      "Verse": "15:97-99",
+      "Text": "And We already know that your heart is constrained by what they say. So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him]. And worship your Lord until there comes to you the certainty (death)."
+    },
+    {
+      "Surah": "Al-Fajr",
+      "Verse": "89:27-30",
+      "Text": "[To the righteous it will be said], 'O reassured soul, Return to your Lord, well-pleased and pleasing [to Him], And enter among My [righteous] servants, And enter My Paradise.'"
+    },
+    {
+      "Surah": "Al-Ma'idah",
+      "Verse": "5:11",
+      "Text": "O you who have believed, remember the favor of Allah upon you when a people determined to extend their hands [in aggression] against you, but He withheld their hands from you; and fear Allah. And upon Allah let the believers rely."
+    },
+    {
+      "Surah": "Az-Zumar",
+      "Verse": "39:53",
+      "Text": "Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'"
+    },
+    {
+      "Surah": "At-Tawbah",
+      "Verse": "9:103",
+      "Text": "Take, [O Muhammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allah's blessings] upon them. Indeed, your invocations are reassurance for them. And Allah is Hearing and Knowing."
+    },
+    {
+      "Surah": "Al-Inshirah",
+      "Verse": "94:1-4",
+      "Text": "Did We not expand for you, [O Muhammad], your heart? And We removed from you your burden, which had weighed upon your back, and raised high for you your repute."
+    },
+    {
+      "Surah": "Ar-Ra'd",
+      "Verse": "13:28",
+      "Text": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured."
+    },
+    {
+      "Surah": "Taha",
+      "Verse": "20:46",
+      "Text": "He said, 'Fear not. Indeed, I am with you both; I hear and I see.'"
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-A'raf",
+      "Verse": "7:126",
+      "Text": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You]."
+    }
+  ],
+  "Lonely": [
+    {
+      "Surah": "Ad-Duhaa",
+      "Verse": "93:6-7",
+      "Text": "And He found you lost and guided [you]."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:186",
+      "Text": "And when My servants ask you concerning Me, indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Mujadila",
+      "Verse": "58:22",
+      "Text": "You will not find a people who believe in Allah and the Last Day having affection for those who oppose Allah and His Messenger, even if they were their fathers or their sons or their brothers or their kindred. Those – He has decreed within their hearts faith and supported them with spirit from Him."
+    },
+    {
+      "Surah": "Ar-Ra'd",
+      "Verse": "13:28",
+      "Text": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured."
+    },
+    {
+      "Surah": "Al-Hadid",
+      "Verse": "57:4",
+      "Text": "It is He who created the heavens and the earth in six days and then established Himself above the Throne. He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you wherever you are."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:70",
+      "Text": "And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference."
+    },
+    {
+      "Surah": "Al-An'am",
+      "Verse": "6:59",
+      "Text": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record."
+    },
+    {
+      "Surah": "At-Tawbah",
+      "Verse": "9:51",
+      "Text": "Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely."
+    },
+    {
+      "Surah": "Al-Inshirah",
+      "Verse": "94:6",
+      "Text": "Indeed, with hardship [will be] ease."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:257",
+      "Text": "Allah is the ally of those who believe. He brings them out from darknesses into the light."
+    },
+    {
+      "Surah": "Taha",
+      "Verse": "20:46",
+      "Text": "He said, 'Fear not. Indeed, I am with you both; I hear and I see.'"
+    },
+    {
+      "Surah": "Al-Hijr",
+      "Verse": "15:56",
+      "Text": "[Abraham] said, 'And who despairs of the mercy of his Lord except for those astray?'"
+    },
+    {
+      "Surah": "Al-Mulk",
+      "Verse": "67:13-14",
+      "Text": "And conceal your speech or publicize it; indeed, He is Knowing of that within the heart. Does He who created not know, while He is the Subtle, the Acquainted?"
+    },
+    {
+      "Surah": "Qaf",
+      "Verse": "50:16",
+      "Text": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear."
+    },
+    {
+      "Surah": "Al-Fath",
+      "Verse": "48:4",
+      "Text": "It is He who sent down tranquillity into the hearts of the believers that they would increase in faith along with their [present] faith."
+    },
+    {
+      "Surah": "Al-Qasas",
+      "Verse": "28:22",
+      "Text": "And when he directed himself toward Madyan, he said, 'Perhaps my Lord will guide me to the sound way.'"
+    },
+    {
+      "Surah": "Ash-Shu'ara",
+      "Verse": "26:62",
+      "Text": "[Moses] said, 'No! Indeed, with me is my Lord; He will guide me.'"
+    },
+    {
+      "Surah": "Al-Anfal",
+      "Verse": "8:10",
+      "Text": "And Allah made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allah."
+    }
+  ],
+  "Sad": [
+    {
+      "Surah": "Ad-Duhaa",
+      "Verse": "93:6-7",
+      "Text": "And He found you lost and guided [you]."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:155-157",
+      "Text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient, who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.' Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
+    },
+    {
+      "Surah": "Al-Imran",
+      "Verse": "3:139",
+      "Text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers."
+    },
+    {
+      "Surah": "Al-Imran",
+      "Verse": "3:200",
+      "Text": "O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful."
+    },
+    {
+      "Surah": "Yunus",
+      "Verse": "10:62-64",
+      "Text": "Unquestionably, for the allies of Allah there will be no fear concerning them, nor will they grieve. Those who believed and were fearing Allah. For them are good tidings in the worldly life and in the Hereafter. No change is there in the words of Allah. That is what is the great attainment."
+    },
+    {
+      "Surah": "At-Tawbah",
+      "Verse": "9:51",
+      "Text": "Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely."
+    },
+    {
+      "Surah": "Hud",
+      "Verse": "11:49",
+      "Text": "That is from the news of the unseen which We reveal to you, [O Muhammad]. You knew it not, neither you nor your people, before this. So be patient; indeed, the [best] outcome is for the righteous."
+    },
+    {
+      "Surah": "Yusuf",
+      "Verse": "12:86",
+      "Text": "He said, 'I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.'"
+    },
+    {
+      "Surah": "Ar-Ra'd",
+      "Verse": "13:28",
+      "Text": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured."
+    },
+    {
+      "Surah": "Ibrahim",
+      "Verse": "14:34",
+      "Text": "And He gave you from all you asked of Him. And if you should count the favor of Allah, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful."
+    },
+    {
+      "Surah": "Al-Hijr",
+      "Verse": "15:97-98",
+      "Text": "And We already know that your heart is constrained by what they say. So exalt [Allah] with praise of your Lord and be of those who prostrate [to Him]."
+    },
+    {
+      "Surah": "An-Nahl",
+      "Verse": "16:127",
+      "Text": "And be patient, for your patience is not but through Allah. And do not grieve over them and do not be in distress over what they conspire."
+    },
+    {
+      "Surah": "Maryam",
+      "Verse": "19:24-26",
+      "Text": "But he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates. So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'"
+    },
+    {
+      "Surah": "Ta-Ha",
+      "Verse": "20:46",
+      "Text": "He said, 'Fear not. Indeed, I am with you both; I hear and I see.'"
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Ar-Rum",
+      "Verse": "30:60",
+      "Text": "So be patient. Indeed, the promise of Allah is truth. And let them not disquiet you who are not certain [in faith]."
+    },
+    {
+      "Surah": "Al-Fussilat",
+      "Verse": "41:30",
+      "Text": "Indeed, those who have said, 'Our Lord is Allah' and then remained steadfast - the angels will descend upon them, [saying], 'Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.'"
+    },
+    {
+      "Surah": "Ash-Shura",
+      "Verse": "42:36",
+      "Text": "So whatever thing you have been given - it is but [for] enjoyment of the worldly life. But what is with Allah is better and more lasting for those who have believed and upon their Lord rely."
+    },
+    {
+      "Surah": "Al-Fath",
+      "Verse": "48:4",
+      "Text": "It is He who sent down tranquility into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allah belong the soldiers of the heavens and the earth, and ever is Allah Knowing and Wise."
+    },
+    {
+      "Surah": "Al-Hadid",
+      "Verse": "57:20",
+      "Text": "Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children - like the example of a rain whose [resulting] plant growth pleases the tillers; then it dries and you see it turned yellow; then it becomes [scattered] debris. And in the Hereafter is severe punishment and forgiveness from Allah and approval. And what is the worldly life except the enjoyment of delusion."
+    },
+    {
+      "Surah": "At-Taghabun",
+      "Verse": "64:11",
+      "Text": "No disaster strikes except by permission of Allah. And whoever believes in Allah - He will guide his heart. And Allah is Knowing of all things."
+    },
+    {
+      "Surah": "At-Tawbah",
+      "Verse": "9:40",
+      "Text": "If you do not aid the Prophet - Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.' And Allah sent down his tranquillity upon him and supported him with soldiers you did not see and made the word of those who disbelieved the lowest, while the word of Allah - that is the highest. And Allah is Exalted in Might and Wise."
+    },
+    {
+      "Surah": "Al-Ankabut",
+      "Verse": "29:64",
+      "Text": "And this worldly life is not but diversion and amusement. And indeed, the home of the Hereafter – that is the [eternal] life, if only they knew."
+    }
+  ],
+  "Happy": [
+    {
+      "Surah": "Al-Furqan",
+      "Verse": "25:63",
+      "Text": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
+    },
+    {
+      "Surah": "An-Nahl",
+      "Verse": "16:97",
+      "Text": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do."
+    },
+    {
+      "Surah": "Al-Isra",
+      "Verse": "17:9",
+      "Text": "Indeed, this Quran guides to that which is most suitable and gives good tidings to the believers who do righteous deeds that they will have a great reward."
+    },
+    {
+      "Surah": "Al-Buruj",
+      "Verse": "85:11",
+      "Text": "Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow. That is the great attainment."
+    },
+    {
+      "Surah": "Al-Kahf",
+      "Verse": "18:31",
+      "Text": "Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place."
+    },
+    {
+      "Surah": "Al-Hadid",
+      "Verse": "57:12",
+      "Text": "On the Day you see the believing men and believing women, their light proceeding before them and on their right, [it will be said], 'Your good tidings today are [of] gardens beneath which rivers flow, wherein you will abide eternally.' That is what is the great attainment."
+    },
+    {
+      "Surah": "Al-Ahzab",
+      "Verse": "33:47",
+      "Text": "And give good tidings to the believers that they will have from Allah great bounty."
+    },
+    {
+      "Surah": "Az-Zumar",
+      "Verse": "39:61",
+      "Text": "And Allah will save those who feared Him by their attainment; no evil will touch them, nor will they grieve."
+    },
+    {
+      "Surah": "Al-Insan",
+      "Verse": "76:11",
+      "Text": "So Allah will protect them from the evil of that Day and give them radiance and happiness."
+    },
+    {
+      "Surah": "Al-Baqarah",
+      "Verse": "2:286",
+      "Text": "Allah does not burden a soul beyond that it can bear. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned."
+    },
+    {
+      "Surah": "Al-Fath",
+      "Verse": "48:4",
+      "Text": "It is He who sent down tranquility into the hearts of the believers that they would increase in faith along with their [present] faith. And to Allah belong the soldiers of the heavens and the earth, and ever is Allah Knowing and Wise."
+    },
+    {
+      "Surah": "Al-Qasas",
+      "Verse": "28:47",
+      "Text": "But if the truth had followed their inclinations, the heavens and the earth and whoever is in them would have been ruined. But We have brought them their message, but they, from their message, are turning away."
+    },
+    {
+      "Surah": "Ankabut",
+      "Verse": "29:69",
+      "Text": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "Surah": "Ash-Shura",
+      "Verse": "42:25",
+      "Text": "And it is He who accepts repentance from his servants and pardons misdeeds, and He knows what you do."
+    },
+    {
+      "Surah": "Az-Zumar",
+      "Verse": "39:18",
+      "Text": "Who listen to speech and follow the best of it. Those are the ones Allah has guided, and those are people of understanding."
+    },
+    {
+      "Surah": "Al-Tin",
+      "Verse": "95:4-6",
+      "Text": "We have certainly created man in the best of stature; then We return him to the lowest of the low, except for those who believe and do righteous deeds, for they will have a reward uninterrupted."
+    },
+    {
+      "Surah": "Al-Ahzab",
+      "Verse": "33:43",
+      "Text": "It is He who confers blessing upon you, and His angels [ask Him to do so] that He may bring you out from darknesses into the light. And ever is He, to the believers, Merciful."
+    },
+    {
+      "Surah": "Al-Tahrim",
+      "Verse": "66:8",
+      "Text": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow [on] the Day when Allah will not disgrace the Prophet and those who believed with him."
+    },
+    {
+      "Surah": "Al-Mutaffifin",
+      "Verse": "83:22-24",
+      "Text": "Indeed, the righteous will be in pleasure. On adorned couches, observing. You will recognize in their faces the radiance of pleasure."
+    }
+  ]
+}
