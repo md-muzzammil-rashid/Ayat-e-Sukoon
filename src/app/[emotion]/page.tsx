@@ -1,14 +1,12 @@
 'use client'
 import getRandomEntries from '@/utils/getRandomVerses'
 import { useParams } from 'next/navigation'
-import { useRouter } from 'next/router'
+import { useRouter } from 'next/navigation'
 import React, { useEffect, useState } from 'react'
 import AllVerses from '@/utils/verses.json'
 import VerseCard from '@/components/VerseCard'
-import Image from 'next/image'
-// import bg from '@/assets/images/modalBackground1.png'
-import bg from '@/assets/images/modalBackground2.jpeg'
-// import bg from '@/assets/images/modalBackground.webp'
+import respectiveEmoji from '@/utils/respectiveEmoji'
+import { FaArrowLeft, FaBackspace, FaBackward } from 'react-icons/fa'
 
 interface Verse {
     Verse: string,
@@ -22,6 +20,7 @@ const Page = () => {
     const [selectedVerse, setSelectedVerse] = useState<Verse>()
     const [closing, setClosing] = useState(false)
     const { emotion } = useParams()
+    const router = useRouter()
 
     const handleClosing = () => {
         setClosing(true)
@@ -31,15 +30,19 @@ const Page = () => {
         }, 500);
     }
     useEffect(() => {
-        console.log(AllVerses?.Anxious);
         setVerses(getRandomEntries(AllVerses[emotion], 15))
-        console.log(verses);
-
     }, [])
 
     return (
         <div>
-            <h2>emotion : {emotion}</h2>
+            <div className='flex items-center justify-between px-5 py-4 '>
+                <div onClick={()=>router.back()}><FaArrowLeft/></div>
+                <h2 className='poppins-black text-2xl'> Comfort in {emotion} </h2>
+                <h2 className='poppins-black text-2xl'> {respectiveEmoji[emotion]}</h2>
+            </div>
+            <h2 className='bg-clip-text p-6 text-transparent poppins-black text-3xl
+                bg-gradient-to-r from-indigo-400 to-cyan-400
+             '>Select Any One</h2>
             <div className={` ${modalOpen? `unfold  ${closing?"out":""} ` :""}  modal-container`}>
                 <div className='modal-background'>
                     <div className='modal relative py-12 roboto-bold aspect-square rounded-3xl m-6 green-bg justify-center items-center flex flex-col '>

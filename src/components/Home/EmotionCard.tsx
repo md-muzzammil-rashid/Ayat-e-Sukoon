@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation'
 const EmotionCard = ({emotion, emoji, message}:{emotion:string, emoji:any, message:string}) => {
     const router = useRouter()
   return (
-    <div onClick={()=>router.push(`/${emotion}`, {scroll:true})} className='justify-center relative box-decoration-slice items-center custom-border flex flex-col m-12  bg-white/5   py-6 gap-3 rounded-3xl '>
+    <div onClick={()=>router.push(`/${emotion}`, {scroll:true})} className='justify-center relative box-decoration-slice items-center custom-border flex flex-col m-12  bg-white/10   py-6 gap-3 rounded-3xl '>
         <Image src={emoji} className='w-24 aspect-square h-24' />
         <h2 className='text-2xl poppins-black'>
             {emotion}
