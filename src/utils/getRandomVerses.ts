@@ -1,4 +1,6 @@
-const getRandomEntries = (arr, n) => {
+import { Verse } from "@/app/[emotion]/page";
+
+const getRandomEntries = (arr: Array<Verse>, n:number) => {
     if (n > arr.length) {
     //   throw new Error("n cannot be greater than the array length");
     n = arr.length

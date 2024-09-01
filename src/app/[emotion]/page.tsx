@@ -8,7 +8,7 @@ import VerseCard from '@/components/VerseCard'
 import respectiveEmoji from '@/utils/respectiveEmoji'
 import { FaArrowLeft, FaBackspace, FaBackward } from 'react-icons/fa'
 
-interface Verse {
+export interface Verse {
     Verse: string,
     Text: string,
     Surah: string
