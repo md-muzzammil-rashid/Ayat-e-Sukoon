@@ -30,8 +30,7 @@ const Page = () => {
         }, 500);
     }
     useEffect(() => {
-        setVerses(getRandomEntries(AllVerses[emotion], 15))
-
+        setVerses(getRandomEntries(AllVerses[emotion as keyof typeof AllVerses], 15))
     }, [emotion])
 
     return (
@@ -39,7 +38,7 @@ const Page = () => {
             <div className='flex items-center justify-between px-5 py-4 '>
                 <div onClick={()=>router.back()}><FaArrowLeft/></div>
                 <h2 className='poppins-black text-2xl'> Comfort in {emotion} </h2>
-                <h2 className='poppins-black text-2xl'> {respectiveEmoji[emotion]}</h2>
+            <h2 className='poppins-black text-2xl'> {respectiveEmoji[emotion as keyof typeof respectiveEmoji]}</h2>
             </div>
             <h2 className='bg-clip-text p-6 text-transparent poppins-black text-3xl
                 bg-gradient-to-r from-indigo-400 to-cyan-400
