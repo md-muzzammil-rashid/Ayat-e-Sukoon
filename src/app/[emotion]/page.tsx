@@ -31,7 +31,8 @@ const Page = () => {
     }
     useEffect(() => {
         setVerses(getRandomEntries(AllVerses[emotion], 15))
-    }, [])
+
+    }, [emotion])
 
     return (
         <div>
@@ -49,8 +50,7 @@ const Page = () => {
                         <div onClick={handleClosing} className='absolute top-3 right-5 text-3xl hover:text-[#ff0000]'>
                             &times;
                         </div>
-                        {/* <Image src={bg} className='absolute -z-10 top-1/2 -translate-y-1/2' /> */}
-                        <h2 className='text-center m-6 text-xl'>"{selectedVerse?.Text}"</h2>
+                        <h2 className='text-center m-6 text-xl'> &quot; {selectedVerse?.Text} &quot; </h2>
                         <h2 className='text-center'>{selectedVerse?.Surah}</h2>
                         <h2 className='text-center'>{selectedVerse?.Verse}</h2>
                     </div>
@@ -63,7 +63,7 @@ const Page = () => {
                         <div key={e} className='flex justify-evenly'>
 {
                         verses.slice(e*3, e*3+3 ).map((verse, index) => (
-                            <div key={verse.Text} onClick={()=>{setSelectedVerse(verse), setModalOpen(!modalOpen); console.log("modal is open");
+                            <div key={verse.Text} onClick={()=>{setSelectedVerse(verse), setModalOpen(!modalOpen); 
                             }} className='justify-center items-center flex flex-col'>
                         <VerseCard  Verse={verse.Verse} Surah={verse.Surah} Text={verse.Text}/>
                         </div>

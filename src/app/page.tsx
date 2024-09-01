@@ -1,6 +1,5 @@
 import HeroSection from "@/components/Home/HeroSection";
 import SelectEmotions from "@/components/Home/SelectEmotions";
-import Image from "next/image";
 
 export default function Home() {
   return (
